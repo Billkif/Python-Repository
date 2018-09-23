@@ -1,3 +1,4 @@
+# Print out a date, given year, month, and day as numbers (Listing 2-1 page 27)
 months = [
     'January',
     'February',

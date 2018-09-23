@@ -1,4 +1,4 @@
-#Prints a sentence in a centered "box" of correct width
+#Prints a sentence in a centered "box" of correct width (Listing 2-3 page31)
 
 sentence = input("Sentence: ")
 

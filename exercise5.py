@@ -1,4 +1,4 @@
-# Print a formatted price list with a given width
+# Print a formatted price list with a given width  (Listing 3-1 page 51)
 
 width = int(input('Please enter width: '))
 

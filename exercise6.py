@@ -1,4 +1,4 @@
-# A simple database
+# A simple database (Listing 4-1 page 62, dictionary example)
 
 # A dictionary with person names as keys. Each person is represented as
 # another dictionary with keys 'phone' and 'addr' referring to their phone

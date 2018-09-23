@@ -1,4 +1,4 @@
-# Check a user name and PIN code
+# Check a user name and PIN code  (Listing 2-4 page33)
 
 database = [
     ['albert',  '1234'],

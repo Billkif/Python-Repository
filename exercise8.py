@@ -1,3 +1,4 @@
+# Nested blocks example page 79
 name = input('What is your name? ')
 if name.endswidth('Gumby'):
     if name.startswith('Mr.'):

@@ -1,4 +1,4 @@
-# A simple database using get()
+# A simple database using get()  (Listing 4-2 page 66, dictionary method example)
 
 # Insert database (people) from previous exercise
 
