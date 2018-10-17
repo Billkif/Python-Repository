@@ -4,3 +4,4 @@ domain = url[11:-4]
 url = input('Please enter the URL:')
 
 print("Domain name: " + domain)
+print()

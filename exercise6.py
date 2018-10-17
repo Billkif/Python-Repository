@@ -6,7 +6,7 @@
 people = {
     'Alice': {
         'phone': '2341'
-        'addr': 'Foo drive 23'
+        'addr'  'Foo drive 23'
     },
 
     'Beth': {
@@ -14,7 +14,7 @@ people = {
         'addr': 'Bar street 42'
     },
     'Cecil': {
-        'phone': '9102',
+        'phone': '9108',
         'addr': 'Bar avenue 90s'
     }
 }
